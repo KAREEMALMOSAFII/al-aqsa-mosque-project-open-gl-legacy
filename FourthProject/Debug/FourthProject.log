@@ -1,0 +1,30 @@
+﻿Build started 1/12/2024 6:50:13 PM.
+     1>Project "C:\Users\karee\Desktop\al-aqsa - Copy\FourthProject\FourthProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\karee\Desktop\al-aqsa - Copy\Debug\FourthProject.exe" /INCREMENTAL /NOLOGO GLAUX.lib GLU32.lib glut.lib OPENGL32.lib glut32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\karee\Desktop\al-aqsa - Copy\Debug\FourthProject.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\karee\Desktop\al-aqsa - Copy\Debug\FourthProject.lib" /MACHINE:X86 Debug\StdAfx.obj
+         Debug\Wave.obj
+         Debug\3DTexture.obj
+         Debug\arch.obj
+         Debug\camera.obj
+         Debug\DomeOfThechain.obj
+         Debug\FLOOR.obj
+         Debug\Model_3DS.obj
+         Debug\Mosque.obj
+         Debug\MOUSE.obj
+         Debug\point.obj
+         Debug\PrimitiveDrawer.obj
+         Debug\SKYBOX.obj
+         Debug\Sound.obj
+         Debug\Source.obj
+         Debug\StdAfx.obj
+         Debug\texture.obj
+         Debug\Wave.obj
+         FourthProject.vcxproj -> C:\Users\karee\Desktop\al-aqsa - Copy\Debug\FourthProject.exe
+     1>Done Building Project "C:\Users\karee\Desktop\al-aqsa - Copy\FourthProject\FourthProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.19
